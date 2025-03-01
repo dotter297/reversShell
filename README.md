@@ -35,6 +35,6 @@ This code is for educational and testing purposes only in controlled environment
 
 🚀 Installation & Usage
     git clone https://github.com/dotter297/reversShell.git
-    (reverseShell.py) In 4 line, change the "ip" to the ip adress of your machine and start reverShell on host  machine.
-    (clientShell.py) In 6 line, change "host ip" to the your host ip adress and run the client script on the target machine.
+    (reverseShell.py) In 4 line, change the "ip" to the ip adress of your           machine and start reverShell on host  machine.
+    (clientShell.py) In 6 line, change "host ip" to the your host ip adress and     run the client script on the target machine.
     Once connected, you can send commands for execution.

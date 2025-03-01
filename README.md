@@ -11,7 +11,7 @@
 
 Этот код предназначен исключительно для образовательных целей и тестирования в контролируемых средах. Использование его в незаконных целях может привести к юридическим последствиям.
 
- Установка и использование
+ Установка и использование:
     git clone https://github.com/dotter297/reversShell.git
     (reverseShell.py) В 4 строке кода измините ip на ip вашей машины и апустите сервер на хосте 
     (clientShell.py) В 6 строке кода измините ip на ip хоста и запустите клиентский скрипт на целевой машине.
@@ -33,8 +33,8 @@
 This code is for educational and testing purposes only in controlled environments. Using it for illegal activities may result in legal consequences.
 
 
-🚀 Installation & Usage
-    git clone https://github.com/dotter297/reversShell.git
-    (reverseShell.py) In 4 line, change the "ip" to the ip adress of your           machine and start reverShell on host  machine.
-    (clientShell.py) In 6 line, change "host ip" to the your host ip adress and     run the client script on the target machine.
+🚀 Installation & Usage:
+     git clone https://github.com/dotter297/reversShell.git
+    (reverseShell.py) In 4 line, change the "ip" to the ip adress of your    machine and start reverShell on host  machine.
+    (clientShell.py) In 6 line, change "host ip" to the your host ip adress and run the client script on the target machine.
     Once connected, you can send commands for execution.
